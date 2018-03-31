@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Neo Sans Arabic';
+	src: url('fonts/NeoSansArabic.ttf');
+	src: local('☺'), url('fonts/NeoSansArabic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
